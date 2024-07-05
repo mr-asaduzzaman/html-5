@@ -1,0 +1,23 @@
+.Audio{
+    background: #53cbff; 
+    width: 400px; 
+    color: blueviolet;
+}
+
+.video{
+    background-color: aqua;
+    width:fit-content ;
+}
+
+.yt{
+    background-color:rgb(44, 202, 255);
+    width: fit-content;
+    border: 40px #ff5353;
+    border-radius: 5%;
+}
+
+.kib{
+    background: #53cbff; 
+    width: 400px; 
+    color: blueviolet;
+}
