@@ -21,3 +21,17 @@
     width: 400px; 
     color: blueviolet;
 }
+
+label{
+    display: block;
+    margin-bottom: 10px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+td, th{
+    border: 1px solid black;
+}
+
